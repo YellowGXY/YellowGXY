@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Estudiante de Software Universidad De Las Américas
+Estudiante de Ingeniera en Desarrollo de Software | Universidad De Las Américas
 
 
 ## 🌐 Socials:
