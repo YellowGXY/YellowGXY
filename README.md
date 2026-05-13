@@ -5,7 +5,7 @@
 </picture>
 
 
-# 💫 About Me:
+# 💫 Sobre Mi:
 Estudiante de Ingeniera en Desarrollo de Software | Universidad De Las Américas
 
 
