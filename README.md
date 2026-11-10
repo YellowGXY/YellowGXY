@@ -17,4 +17,3 @@ Estudiante de Ingeniera en Desarrollo de Software | Universidad De Las Américas
 ![](https://github-readme-stats.shion.dev/api?username=YellowGXY&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=YellowGXY&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YellowGXY&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YellowGXY&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
