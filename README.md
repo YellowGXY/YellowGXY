@@ -8,7 +8,6 @@
 # 💫 Sobre Mi:
 Estudiante de Ingeniera en Desarrollo de Software | Universidad De Las Américas
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matgab.yg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yellowg__) 
 
@@ -18,3 +17,4 @@ Estudiante de Ingeniera en Desarrollo de Software | Universidad De Las Américas
 ![](https://github-readme-stats.shion.dev/api?username=YellowGXY&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=YellowGXY&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YellowGXY&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YellowGXY&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
